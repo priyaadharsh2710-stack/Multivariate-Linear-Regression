@@ -31,7 +31,6 @@ To write a python program to implement multivariate linear regression and predic
 ```
 ## Output:
 
-### Insert your output
 
 <br>
 
